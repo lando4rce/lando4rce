@@ -49,6 +49,24 @@ Actualmente desarrollo una solución digital para la coordinación, gestión y s
 
 ---
 
+### Lectura inteligente de facturas y boletas con IA
+
+Sistema web orientado a la lectura y análisis de comprobantes como facturas, boletas y documentos tributarios mediante archivos PDF, JPG, PNG o fotografías tomadas desde el celular.
+
+La solución utiliza inteligencia artificial conectada con la API de OpenAI para interpretar documentos, extraer información relevante y apoyar procesos administrativos, contables y de gestión.
+
+Funciones principales:
+
+- Lectura de facturas, boletas y comprobantes desde imágenes o PDF
+- Análisis de documentos mediante IA
+- Extracción de datos como proveedor, RUC, fecha, montos, IGV, detalle e importes
+- Organización del historial de comprobantes procesados
+- Apoyo a procesos contables y administrativos
+- Preparado para integrarse con sistemas web y bases de datos
+
+> Proyecto privado en desarrollo. Este perfil muestra una descripción general sin exponer código, rutas internas ni claves de API.
+---
+
 ## 🎬 Portafolio audiovisual
 
 También desarrollo contenido audiovisual institucional, cobertura de eventos, reels, transmisiones en vivo y storytelling documental.
