@@ -1,4 +1,4 @@
-# 👋 Hola, soy LandoArce
+# 👋 Hola, soy Orlando Arce
 
 Soy ingeniero de sistemas, comunicador digital y creador de soluciones tecnológicas y audiovisuales para proyectos con propósito.
 
