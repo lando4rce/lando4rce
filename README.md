@@ -1,6 +1,6 @@
 # 👋 Hola, soy Orlando Arce
 
-Soy ingeniero de sistemas, comunicador digital y creador de soluciones tecnológicas y audiovisuales para proyectos con propósito.
+Ingeniero de sistemas, comunicador digital y creador de soluciones tecnológicas y audiovisuales para proyectos con propósito.
 
 Me especializo en combinar **tecnología, comunicación, gestión y narrativa visual** para desarrollar aplicaciones, dashboards, sistemas organizacionales, contenidos digitales y experiencias audiovisuales.
 
